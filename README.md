@@ -7,7 +7,7 @@ The ```playwright-template``` project provides a baseline for the [Playwright](h
 ## Running Tests
 To run all tests in the project, execute the following commands.
 
-1. Swtich the to project directory in the terminal.
+1. Swtich to the project's directory in the terminal.
 
 2. Download and run the Playwright image.
     ```
